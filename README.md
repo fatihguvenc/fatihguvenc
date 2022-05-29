@@ -4,8 +4,8 @@
 
 # Hello, world! 👋  I'm **Fatih Güvenç**
 
-####  I'm Front-End Developer who lives in Turkey. Frontend Developer who is open to learning new technologies, especially interested in frontend languages\
-and web programming. Working to improve his knowledge in these fields :)
+####  I'm Front-End Developer who lives in Turkey. Frontend Developer who is open to learning new technologies, especially interested in frontend languages
+### and web programming. Working to improve his knowledge in these fields :)
 
 
 ### Languages and Tools 🛠 
