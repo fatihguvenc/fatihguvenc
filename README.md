@@ -15,3 +15,4 @@
 ![CSS3](https://img.shields.io/badge/-CSS3-%231572B6?style=flat-square&logo=css3)
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-563D7C?style=flat-square&logo=Bootstrap)
 ![Supabase](https://img.shields.io/badge/-Supabase-%23F7DF1C?style=flat-square&logo=supabase&labelColor=%333333&color=333333)
+![Svelte](https://img.shields.io/badge/-Svelte-%23F7DF1C?style=flat-square&logo=svelte&labelColor=%333333&color=333333)
